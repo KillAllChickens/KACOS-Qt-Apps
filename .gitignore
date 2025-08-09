@@ -1,0 +1,10 @@
+
+
+# object files
+*/*.o
+
+# stash files
+*/.qmake.stash
+
+# Resource data
+*/qrc_resources.cpp
