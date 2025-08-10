@@ -62,7 +62,7 @@ public:
         font1.setPointSize(20);
         Title2->setFont(font1);
         Title2->setAlignment(Qt::AlignmentFlag::AlignHCenter|Qt::AlignmentFlag::AlignTop);
-        Title2->setMargin(-10);
+        Title2->setMargin(-9);
 
         verticalLayout->addWidget(Title2);
 
